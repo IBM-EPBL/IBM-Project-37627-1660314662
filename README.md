@@ -77,6 +77,7 @@
 - [x] [Final Deliverables](https://github.com/IBM-EPBL/IBM-Project-37627-1660314662/tree/main/Final%20Deliverables)
   - [x] [IBM Cloud Depoyment](https://github.com/IBM-EPBL/IBM-Project-37627-1660314662/tree/main/Final%20Deliverables/IBM%20Cloud%20Deployment)
   - [x] [Demo Video](https://github.com/IBM-EPBL/IBM-Project-37627-1660314662/blob/main/Final%20Deliverables/demo%20video.mp4)
+  - [x] [Project Report](https://github.com/IBM-EPBL/IBM-Project-37627-1660314662/blob/main/Final%20Deliverables/Project%20Report.pdf)
 <br>
 
 
