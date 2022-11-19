@@ -84,25 +84,25 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> ASSIGNMENTS
 </h2>
 
-[Team Lead](https://github.com/IBM-EPBL/IBM-Project-37627-1660314662/tree/main/Assignment/team%20lead)<br>
+[Team Lead - Durga Naga Sai Shriya R](https://github.com/IBM-EPBL/IBM-Project-37627-1660314662/tree/main/Assignment/team%20lead)<br>
 [Assignment 1](https://github.com/IBM-EPBL/IBM-Project-37627-1660314662/blob/main/Assignment/team%20lead/assignment_1%20.ipynb) • 
 [Assignment 2](https://github.com/IBM-EPBL/IBM-Project-37627-1660314662/blob/main/Assignment/team%20lead/assignment%202.ipynb) •
 [Assignment 3](https://github.com/IBM-EPBL/IBM-Project-37627-1660314662/blob/main/Assignment/team%20lead/Assignment_3.ipynb) •
 [Assignment 4](https://github.com/IBM-EPBL/IBM-Project-37627-1660314662/blob/main/Assignment/team%20lead/assignment%204.ipynb) <br><br>
 
-[M1 lead](https://github.com/IBM-EPBL/IBM-Project-37627-1660314662/tree/main/Assignment/M1%20lead)<br>
+[M1 lead - Gayathri T R](https://github.com/IBM-EPBL/IBM-Project-37627-1660314662/tree/main/Assignment/M1%20lead)<br>
 [Assignment 1](https://github.com/IBM-EPBL/IBM-Project-37627-1660314662/blob/main/Assignment/M1%20lead/assignment_1%20.ipynb) • 
 [Assignment 2](https://github.com/IBM-EPBL/IBM-Project-37627-1660314662/blob/main/Assignment/M1%20lead/assignment%202.ipynb) •
 [Assignment 3](https://github.com/IBM-EPBL/IBM-Project-37627-1660314662/blob/main/Assignment/M1%20lead/assignment_3.ipynb) •
 [Assignment 4](https://github.com/IBM-EPBL/IBM-Project-37627-1660314662/blob/main/Assignment/M1%20lead/assignment%204.ipynb) <br><br>
 
-[M2 lead](https://github.com/IBM-EPBL/IBM-Project-37627-1660314662/tree/main/Assignment/M2%20lead)<br>
+[M2 lead - Aparna VS](https://github.com/IBM-EPBL/IBM-Project-37627-1660314662/tree/main/Assignment/M2%20lead)<br>
 [Assignment 1](https://github.com/IBM-EPBL/IBM-Project-37627-1660314662/blob/main/Assignment/M2%20lead/assignment_1%20.ipynb) • 
 [Assignment 2](https://github.com/IBM-EPBL/IBM-Project-37627-1660314662/blob/main/Assignment/M2%20lead/assignment%202.ipynb) •
 [Assignment 3](https://github.com/IBM-EPBL/IBM-Project-37627-1660314662/blob/main/Assignment/M2%20lead/assignment_3.ipynb) •
 [Assignment 4](https://github.com/IBM-EPBL/IBM-Project-37627-1660314662/blob/main/Assignment/M2%20lead/assignment%204.ipynb) <br><br>
 
-[M3 lead](https://github.com/IBM-EPBL/IBM-Project-37627-1660314662/tree/main/Assignment/M3%20lead)<br>
+[M3 lead - Dharshini G](https://github.com/IBM-EPBL/IBM-Project-37627-1660314662/tree/main/Assignment/M3%20lead)<br>
 [Assignment 1](https://github.com/IBM-EPBL/IBM-Project-37627-1660314662/blob/main/Assignment/M3%20lead/assignment_1%20.ipynb) • 
 [Assignment 2](https://github.com/IBM-EPBL/IBM-Project-37627-1660314662/blob/main/Assignment/M3%20lead/assignment%202.ipynb) •
 [Assignment 3](https://github.com/IBM-EPBL/IBM-Project-37627-1660314662/blob/main/Assignment/M3%20lead/assignment_3.ipynb) •
